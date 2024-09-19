@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Lauren Sloane and I am currently pursuing a Master’s in Cybersecurity at Quinnipiac University, after completing my Bachelor’s in Computer Science with a Minor in Criminal Justice. I am passionate, driven, and excel in collaborative work environments. Through my previous experiences, I have consistently demonstrated strong leadership, time management, accountability, and teamwork skills, which I apply to every challenge I take on.
+Hello! My name is Lauren Sloane and I am currently pursuing a Master’s in Cybersecurity at Quinnipiac University, after completing my Bachelor’s in Computer Science with a Minor in Criminal Justice. I am passionate, driven, and excel in collaborative work environments. Through my previous experiences, I have consistently demonstrated strong leadership, time management, accountability, and teamwork skills, which I apply to every challenge I take on.
 
 🌱 I’m currently learning project managment!
 <!--
